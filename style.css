@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+    background-image: url(images/cover-p.png);
+    height: 400px;
+    width: 100%;
+    font-size: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid yellow;
+    color: brown;
+
+}
+.project{
+    width: 100%;
+    margin-top: 5px;
+}
+.project-item1{
+    background-image: url(images/seeker\ black.jpg);
+    height: 250px;
+    width: 32.96%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 3px;
+    float: left;
+    
+   
+}
+.project-item2{
+    background-image: url(images/ring\ black.jpg);
+    height: 250px;
+    width: 32.8%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 3px;
+    float: left;
+   
+}
+.project-item3{
+    background-image: url(images/focus\ sky.jpg);
+    height: 250px;
+    width: 32.8%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 3px;
+    float: left;
+   
+}
+.project-item4{
+    background-image: url(images/bron\ to\ play\ white.jpg);
+    height: 250px;
+    width: 32.8%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 3px;
+    float: left;
+   
+}
+.project-item5{
+    background-image: url(images/lion.jpg);
+    height: 250px;
+    width: 32.8%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 3px;
+    float: left;
+}
+.project-item6{
+    background-image: url(images/mountane\ blue.jpg);
+    height: 250px;
+    width: 32.8%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 3px;
+    float: left;
+   
+}
